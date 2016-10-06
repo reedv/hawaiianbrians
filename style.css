@@ -1,0 +1,15 @@
+#top-menu {
+  background-color: white;
+  box-shadow: none;
+  padding: none;
+  border: none;
+  margin: 10px;
+}
+
+.footer-menu {
+  background-color: rgb(41, 41, 41);
+  color: white;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-bottom: 20px;
+}
